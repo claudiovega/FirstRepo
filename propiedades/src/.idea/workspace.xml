@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88bb5878-f908-4be2-85a6-86cb79918bc7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../docker/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../docker/src/main/java/cl/docker/config/SchedulingConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../docker/src/main/java/cl/docker/helper/NegocioHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../docker/src/main/java/cl/docker/model/TestDocker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../docker/src/main/java/cl/docker/repository/TestDockerDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../docker/src/main/java/cl/docker/scheduler/Scheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../examples/src/main/java/com/examples/forEach/ForEachExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../examples/src/main/java/com/examples/forEach/ForEachRemainingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../examples/src/main/java/com/examples/forEach/MyConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../examples/src/main/java/com/examples/localTime/LocalTimeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/business/EmolPropiedadesRefactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/business/MercadoLibre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/business/MercadoLibreRefactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/business/PropiedadesElMercurioRefactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/business/YapoChile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/config/SchedulingConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/dao/OracleBaseDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/dao/OracleEmolDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/dao/OracleMercadoLibreDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/dao/OraclePortalInmobiliarioDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/dao/OraclePropiedadesElMercurioDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/dao/OracleScrapInmobiliarioBatchDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/dao/OracleYapoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/enums/MesesYapoEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/enums/PortalesEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/enums/RegionesElMercurioPropiedadesEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/enums/RegionesMercadolibreEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/enums/RegionesPortalInmobiliarioEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/enums/RegionesYapoEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/enums/TipoInmuebleEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/enums/TipoTransaccionEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/factory/BeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/factory/EmolPropiedadesScrapingExtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/factory/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/factory/Portal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/factory/PortalFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/factory/PortalInmobiliarioScrapingExtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/factory/ScrapExtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/factory/YapoScrapingExtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/factory/configuration/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/future/ConsumingFuture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/future/FutureProcessing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/helper/FileGeneratorHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/helper/LoggerHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/helper/NegocioHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/helper/ProcessBuilderExecutorHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/helper/PropiedadesHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/model/Errores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/model/InformacionInmobiliaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/model/InformacionInmobiliariaTemp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/model/LogProcesoInmobiliario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/model/Proceso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/repository/ErroresDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/repository/InformacionInmobiliariaDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/repository/InformacionInmobiliariaTempDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/repository/LogProcesoInmobiliarioDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/repository/ProcesoDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/scheduler/Scheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/util/DateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/util/EmolUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/util/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/util/GenericExtFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/util/ListUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/util/NumberUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/util/ScrapConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/util/WebDataUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/vo/InformacionInmobiliariaTempVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/vo/InformacionInmobiliariaVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/cl/propiedades/vo/ScrapInmobiliarioVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/java/cl/propiedades/PropiedadesApplicationDAOTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/java/cl/propiedades/PropiedadesApplicationExcelTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/java/cl/propiedades/PropiedadesApplicationFactoryTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/java/cl/propiedades/PropiedadesApplicationYapoTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/java/cl/propiedades/TestPags.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/java/cl/propiedades/future/FutureTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servicios/src/main/java/cl/servicios/controller/PropiedadesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servicios/src/main/java/cl/servicios/helper/PropiedadesHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servicios/src/main/java/cl/servicios/model/InformacionInmobiliaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../servicios/src/main/java/cl/servicios/repository/InformacionInmobiliariaDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/dao/Kino5Dao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/src/cl/dao/Kino5Dao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/dao/KinoDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/src/cl/dao/KinoDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/dao/KinoDuosDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/src/cl/dao/KinoDuosDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/dao/KinoStatisticsDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/src/cl/dao/KinoStatisticsDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/dao/KinoTriosDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/src/cl/dao/KinoTriosDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/dao/OracleKino5DuosDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/src/cl/dao/OracleKino5DuosDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/dao/OracleKino5NumerosGeneradosDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/src/cl/dao/OracleKino5NumerosGeneradosDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/dao/OracleKino5StatisticDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/src/cl/dao/OracleKino5StatisticDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/dao/OracleNumerosGeneradosDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/src/cl/dao/OracleNumerosGeneradosDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/imp/Kino5Statistic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/src/cl/imp/Kino5Statistic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/imp/KinoStatistic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/src/cl/imp/KinoStatistic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/imp/VerificadorEficiencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/src/cl/imp/VerificadorEficiencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/swing/MainWindowold.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/test/TestComparacionEntreSi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/src/cl/test/TestComparacionEntreSi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/test/TestVerificador.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/src/cl/test/TestVerificador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/test/TestVerificadorK5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/src/cl/test/TestVerificadorK5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/test/testDaoConn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/src/cl/test/testDaoConn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/test/testStatistic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/src/cl/test/testStatistic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/test/testStatisticK5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/src/cl/test/testStatisticK5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/util/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/src/cl/util/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/vo/Kino5DuosVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/src/cl/vo/Kino5DuosVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/vo/Kino5NumerosGeneradosVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/src/cl/vo/Kino5NumerosGeneradosVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/vo/Kino5StatisticVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/src/cl/vo/Kino5StatisticVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/vo/Kino5VO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/src/cl/vo/Kino5VO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/vo/KinoDuosVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/src/cl/vo/KinoDuosVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/vo/KinoStatisticsVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/src/cl/vo/KinoStatisticsVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/vo/KinoTriosVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/src/cl/vo/KinoTriosVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/vo/KinoVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/src/cl/vo/KinoVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Kino/src/cl/vo/NumerosGeneradosVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Kino/src/cl/vo/NumerosGeneradosVO.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1cMFL5nS9frUfI1YLHTiZPO7asH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="C:/gitRepository/utils" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88bb5878-f908-4be2-85a6-86cb79918bc7" name="Default Changelist" comment="" />
+      <created>1590330497188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590330497188</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
